@@ -76,5 +76,10 @@ Ever since I was young, I loved exploring new technologies. That curiosity now f
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
 - [GitHub](https://github.com/YOUR-USERNAME)  
 - [Portfolio Dashboard](https://app.powerbi.com/groups/me/reports/ee48315a-09bb-4e81-a078-b1a83d131460/5782ea4d21394c788b14?experience=power-bi)
+## 📬 Contact Me
+
+Feel free to reach out with questions, opportunities, or collaborations!
+
+**Email:** [kayle.mccarthy@capaciti.org.za](mailto:kayle.mccarthy@capaciti.org.za)
 
 ---
