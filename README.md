@@ -60,7 +60,7 @@ This project explored trends in enrollment, performance, and rankings in South A
 ## 🧪 Experience
 
 **Intern – Capaciti**  
-📅 *Dec 2024 – Mar 2025*  
+📅 *Dec 2024 – July 2025*  
 As a Capaciti intern, I applied Cisco CCNA knowledge to optimize IT systems and build foundational data analytics skills.
 
 ---
